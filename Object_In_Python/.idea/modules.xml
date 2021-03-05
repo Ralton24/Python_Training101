@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Advance_Level/.idea/Advance_Level.iml" filepath="$PROJECT_DIR$/../Advance_Level/.idea/Advance_Level.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Advanced/.idea/Advanced.iml" filepath="$PROJECT_DIR$/../Advanced/.idea/Advanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Inheritance/.idea/Inheritance.iml" filepath="$PROJECT_DIR$/../Inheritance/.idea/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Modules/.idea/Modules.iml" filepath="$PROJECT_DIR$/../Modules/.idea/Modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Object_In_Python.iml" filepath="$PROJECT_DIR$/.idea/Object_In_Python.iml" />
+    </modules>
+  </component>
+</project>
